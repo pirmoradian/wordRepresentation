@@ -1,0 +1,8 @@
+word	lxc/n	lxc/v	lxc/aj	lxc/conj	lxc/prep	lxc/pron	lxc/adv	num/sg	num/pl	neg	det/indf	det/def	det/propn	loc/close	loc/far	dir/from	dir/towards	dir/sameplace	dir/above
+nsg	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+npl	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+psg	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+ppl	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0
+vsg	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+vpl	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+adj	0	0	1	0	0	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0

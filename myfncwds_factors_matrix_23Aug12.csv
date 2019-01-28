@@ -1,0 +1,16 @@
+word	lxc/n	lxc/v	lxc/aj	lxc/conj	lxc/prep	lxc/pron	lxc/adv	num/sg	num/pl	neg	det/indf	det/def	det/propn	loc/close	loc/far	dir/from	dir/towards	dir/sameplace	dir/above
+thatc	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0.05	0	0.1	0	0
+of	0	0	0	0	1	0	0	0	0	0	0	0	0	0.25	0	0.3	0	0	0
+in	0	0	0	0	1	0	0.4	0	0	0	0	0	0	0.5	0	0	0	1	0
+with	0	0	0	0	1	0	0	0.3	0	0	0	0	0	1	0	0.05	0	0.7	0
+on	0	0	0.3	0	1	0	0.4	0	0	0	0	0	0	1	0	0	0	1	1
+to	0	0	0	0	1	0	0.1	0	0	0	0	0	0	0	0.5	0	1	0	0
+for	0	0	0	0.1	1	0	0	0	0	0	0	0	0	0	0	0	0.1	0	0
+doesn't	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0.1	0	0	0	0
+don't	0	1	0	0	0	0	0	0.3	1	1	0	0	0	0	0.1	0	0	0	0
+the	0	0	1	0	0	0	0	0.5	0.5	0	0	1	0	0	0	0	0	0	0
+a	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+this	0	0	1	0	0	0.5	0	1	0	0	0	1	0	1	0	0	0	0.5	0
+that	0	0	1	0	0	0.5	0	1	0	0	0	1	0	0	1	0.25	0.25	0	0
+those	0	0	1	0	0	0.5	0	0	1	0	0	1	0	0	1	0.25	0.25	0	0
+these	0	0	1	0	0	0.5	0	0	1	0	0	1	0	1	0	0	0	0.5	0
